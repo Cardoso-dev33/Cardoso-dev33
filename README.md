@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**Cardoso-dev33/Cardoso-dev33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Tael Gavin</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Estudante de Engenharia de Software</strong> <br/>
+  Explorando tecnologias, construindo ideias e crescendo como desenvolvedor.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/taelgavin">
+    <img src="https://img.shields.io/github/followers/taelgavin?label=GitHub&style=social" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 💼 Sobre
+
+Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e automação. Tenho conhecimento em linguagens como **HTML**, **CSS**, **JavaScript** e **Python**. Gosto de explorar ferramentas que ajudam a criar soluções simples para problemas reais.
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+
+---
+
+### 📊 GitHub em números
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taelgavin&show_icons=true&theme=github_dark&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taelgavin&layout=compact&theme=github_dark&border_radius=10" width="40%" />
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 Email: tael@email.com  
+- 📱 Instagram: [@seuusuario](https://instagram.com/seuusuario)  
+- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+
+---
+
+<p align="center">
+  <em>"Conhecimento se constrói praticando."</em>
+</p>
