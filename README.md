@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/taelgavin">
-    <img src="https://img.shields.io/github/followers/taelgavin?label=GitHub&style=social" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/Cardoso-dev33?label=GitHub&style=social" alt="GitHub" />
   </a>
 </p>
 
