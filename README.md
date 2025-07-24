@@ -1,5 +1,4 @@
-npm i -D daisyui@latest
-@plugin "daisyui";
+
 <h1 align="center">Natanael Cardoso</h1>
 
 <p align="center">
@@ -17,7 +16,7 @@ npm i -D daisyui@latest
 💼 Sobre
 <div class="bg-base-200">
   <div class="bg-base-100 border-base-300 text-base-content">
-    Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e automação. Tenho conhecimento em linguagens como **HTML**, **CSS**, **JavaScript** e **Python**. Gosto de explorar ferramentas que ajudam a criar soluções simples para problemas reais.
+    Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e automação. Tenho conhecimento em linguagens como HTML, CSS, JavaScript e Python, Gosto de explorar ferramentas que ajudam a criar soluções simples para problemas reais.
   </div>
 </div>
 
