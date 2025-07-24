@@ -33,8 +33,8 @@ Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e au
 ### 📊 GitHub em números
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taelgavin&show_icons=true&theme=github_dark&border_radius=10" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taelgavin&layout=compact&theme=github_dark&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cardoso-dev33&show_icons=true&theme=github_dark&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-dev33&layout=compact&theme=github_dark&border_radius=10" width="40%" />
 </p>
 
 ---
