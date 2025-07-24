@@ -1,3 +1,5 @@
+npm i -D daisyui@latest
+@plugin "daisyui";
 <h1 align="center">Natanael Cardoso</h1>
 
 <p align="center">
@@ -12,14 +14,17 @@
 </p>
 
 ---
+💼 Sobre
+<div class="bg-base-200">
+  <div class="bg-base-100 border-base-300 text-base-content">
+    Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e automação. Tenho conhecimento em linguagens como **HTML**, **CSS**, **JavaScript** e **Python**. Gosto de explorar ferramentas que ajudam a criar soluções simples para problemas reais.
+  </div>
+</div>
 
-### 💼 Sobre
-
-Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e automação. Tenho conhecimento em linguagens como **HTML**, **CSS**, **JavaScript** e **Python**. Gosto de explorar ferramentas que ajudam a criar soluções simples para problemas reais.
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+🧰 Tecnologias e Ferramentas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -30,7 +35,7 @@ Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e au
 
 ---
 
-### 📊 GitHub em números
+📊 GitHub em números
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cardoso-dev33&show_icons=true&theme=github_dark&border_radius=10" width="45%" />
@@ -39,7 +44,7 @@ Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e au
 
 ---
 
-### 📫 Contato
+📫 Contato
 
 - 📧 Email: tael@email.com  
 - 📱 Instagram: [@seuusuario](https://instagram.com/seuusuario)  
