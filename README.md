@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-dev33&layout=compact&theme=github_dark&border_radius=10" width="40%" />
 </p>
 
----
+<!--
 
 📫 Contato
 
@@ -49,7 +49,7 @@
 - 📱 Instagram: [@seuusuario](https://instagram.com/seuusuario)  
 - 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
 
----
+-->
 
 <p align="center">
   <em>"Conhecimento se constrói praticando."</em>
